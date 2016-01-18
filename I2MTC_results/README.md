@@ -1,0 +1,1 @@
+This is a tool to generate the results of the paper: [Optimal Control with Reinforcement Learning using Reservoir Computing and Gaussian Mixture](http://home.mit.bme.hu/~engedy/docs/I2MTC_2012_OptimalControl_RL_RC_GM.pdf).
